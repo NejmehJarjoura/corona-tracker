@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/corona-tracker/static/css/main.fe2ed55f.chunk.css",
-    "main.js": "/corona-tracker/static/js/main.a1d352db.chunk.js",
-    "main.js.map": "/corona-tracker/static/js/main.a1d352db.chunk.js.map",
+    "main.css": "/corona-tracker/static/css/main.df7d5ffd.chunk.css",
+    "main.js": "/corona-tracker/static/js/main.7a0ffa4f.chunk.js",
+    "main.js.map": "/corona-tracker/static/js/main.7a0ffa4f.chunk.js.map",
     "runtime-main.js": "/corona-tracker/static/js/runtime-main.bf840863.js",
     "runtime-main.js.map": "/corona-tracker/static/js/runtime-main.bf840863.js.map",
-    "static/js/2.fde2ef7e.chunk.js": "/corona-tracker/static/js/2.fde2ef7e.chunk.js",
-    "static/js/2.fde2ef7e.chunk.js.map": "/corona-tracker/static/js/2.fde2ef7e.chunk.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/corona-tracker/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.4b8eae75.chunk.js": "/corona-tracker/static/js/2.4b8eae75.chunk.js",
+    "static/js/2.4b8eae75.chunk.js.map": "/corona-tracker/static/js/2.4b8eae75.chunk.js.map",
     "index.html": "/corona-tracker/index.html",
-    "precache-manifest.3e23ecef6549ee761edcb6ef800a0255.js": "/corona-tracker/precache-manifest.3e23ecef6549ee761edcb6ef800a0255.js",
+    "precache-manifest.7f17fcd5a625011dc4f9d9865ec7ad90.js": "/corona-tracker/precache-manifest.7f17fcd5a625011dc4f9d9865ec7ad90.js",
     "service-worker.js": "/corona-tracker/service-worker.js",
-    "static/css/main.fe2ed55f.chunk.css.map": "/corona-tracker/static/css/main.fe2ed55f.chunk.css.map",
-    "static/js/2.fde2ef7e.chunk.js.LICENSE.txt": "/corona-tracker/static/js/2.fde2ef7e.chunk.js.LICENSE.txt",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/corona-tracker/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.df7d5ffd.chunk.css.map": "/corona-tracker/static/css/main.df7d5ffd.chunk.css.map",
+    "static/js/2.4b8eae75.chunk.js.LICENSE.txt": "/corona-tracker/static/js/2.4b8eae75.chunk.js.LICENSE.txt",
     "static/media/image.png": "/corona-tracker/static/media/image.d7265326.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bf840863.js",
-    "static/js/2.fde2ef7e.chunk.js",
-    "static/css/main.fe2ed55f.chunk.css",
-    "static/js/main.a1d352db.chunk.js"
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.4b8eae75.chunk.js",
+    "static/css/main.df7d5ffd.chunk.css",
+    "static/js/main.7a0ffa4f.chunk.js"
   ]
 }
