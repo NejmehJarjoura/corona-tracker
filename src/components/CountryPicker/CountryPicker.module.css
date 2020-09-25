@@ -1,4 +1,6 @@
 .formControl {
-  width: 30%;
   margin-bottom: 30px !important;
+  border-top: none;
+  border-right: none;
+  border-left: none;
 }

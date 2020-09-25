@@ -1,8 +1,10 @@
 import React from "react";
 
+import "bootstrap/dist/css/bootstrap.css";
+
 import { Cards, Chart, CountryPicker } from "./components";
-import styles from "./App.module.css";
 import { fetchData } from "./api";
+import cx from "classnames";
 
 import coronaImage from "./images/image.png";
 
@@ -26,8 +28,13 @@ class App extends React.Component {
   render() {
     const { data, country } = this.state;
     return (
-      <div className={styles.container}>
-        <img className={styles.image} src={coronaImage} alt="COVID-19" />
+      <div className="container">
+        <div className={cx("row", "pt-5", "pb-5")}>
+          <div className={cx("col-12", "d-flex", "justify-content-center")}>
+            <img className="img-fluid" src={coronaImage} alt="COVID-19" />
+          </div>
+        </div>
+
         <Cards data={data} />
         <CountryPicker handleCountryChange={this.handleCountryChange} />
         <Chart data={data} country={country} />
